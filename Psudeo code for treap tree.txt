@@ -1,0 +1,18 @@
+/*
+linked list class
+class List{
+	.........
+	........
+	.......
+}
+*/
+
+class treapTree{
+	public:
+	List ** node;
+	string user name;
+	int priorty;
+	treapTree* left;
+	treapTree* right;	
+	
+}
