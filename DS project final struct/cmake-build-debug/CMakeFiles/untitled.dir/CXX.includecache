@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ibrahim/CLionProjects/untitled/List.h
+users.h
+C:/Users/ibrahim/CLionProjects/untitled/users.h
+
+C:/Users/ibrahim/CLionProjects/untitled/treap.cpp
+treap.h
+C:/Users/ibrahim/CLionProjects/untitled/treap.h
+
+C:/Users/ibrahim/CLionProjects/untitled/treap.h
+users.h
+C:/Users/ibrahim/CLionProjects/untitled/users.h
+List.h
+C:/Users/ibrahim/CLionProjects/untitled/List.h
+
+C:/Users/ibrahim/CLionProjects/untitled/users.h
+iostream
+-
+
